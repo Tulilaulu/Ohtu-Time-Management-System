@@ -1,0 +1,49 @@
+Firesong
+
+#DATE		TASK	SPRINT	MINUTES	EXPLANATION
+16.5.2011	PROJ	0	300	Aloituspalaveri, mercurial-konffiminen, muuta säätöä
+16.5.2011	TYOK	0	260	Aikakirjurin forkin koodaaminen ja pystytys
+17.5.2011	TYOK	0	80	Aikakirjurin viimeistelyä
+18.5.2011	KOKO	0	180	Kokoustamista
+17.5.2011	TYOK	0	50	Djangon ja muitten juttujen asennusta
+19.5.2011	MUUT	0	30	Javasript kirjan lukemista
+20.5.2011	MUUT	0	40	Pythonkirjaa
+22.5.2011	MUUT	0	40	Javascriptkirjaa
+23.5.2011	MUUT	0	60	kirjoja...
+25.5.2011	MUUT	0	60	kirjoja...
+26.5.2011	KOKO	0	15	Daily
+26.5.2011	TYOK	0	140	Kaikki loput bugit pois aikakirjurista
+27.5.2011	PROJ	0	180	Backlogin kasausta ja säätöä haxossa
+
+28.5.2011	TYOK	0	100	Djangon tutoriaaleja
+30.5.2011	KOKO	1	120	1. Sprintin aloituskokous
+30.5.2011	TOTE	1	60	Kannan säätöö
+
+31.5.2011	TOTE	1	270	Ensimmäisten layouttien konffaaminen toimimaan
+
+29.5.2011	SUUN	0	70	Leiskaluonnos
+1.6.2011	TOTE	1	180	Templatesysteemi ja layout-templatetet
+3.6.2011	TOTE	1	286	Login, registration, admin ja templatekorjaukset!
+6.6.2011	TOTE	1	90	Login, logout ja testgraafi näkymään
+7.6.2011	KOKO	1	130	Prosessipalaveri muitten ryhmien kanssa
+9.6.2011	TOTE	1	200	Javascript pyörimään ja valikot näteiks!
+9.6.2011	TOTE	1	60	saakelin javascript.
+14.6.2011	MUUT	2	060	Koodin kommentointi
+14.6.2011	TUTU	2	120	Daily ja tutustumista JIT:tiin yms.
+15.6.2011	TOTE	2	182	yritin tehä jotain jsonin juttui
+16.6.2011	TUTU	2	80	tietokantaselvittelyä
+17.6.2011	TUTU	2	170	selvittelyä yms. koululla
+19.6.2011	TOTE	2	70	yritin userssille sitä soappia, ei vielä mennyt
+20.6.2011	TOTE	2	230	asiakasjuttuja, soap asennus kuntoon ja demon valmistelua
+22.6.2011	TOTE	2	90	tarkistin että juttujen tallennus toimii, tutkin vielä tietokantoja.
+13.6.2011	TOTE	2	60	
+24.6.2011	KOKO	2	120	Demo
+22.6.2011	SUUN	3	90	Sprintin aloitus
+
+
+23.6.2011	TOTE	3	90	loaderi
+24.6.2011	TOTE	3	260	Kaikkee bugikorjausta ja deletenappi aikakirjuriin
+
+27.6.2011	TOTE	3	200	linjausleiska
+28.6.2011	TOTE	3	180	linjausleiska
+29.6.2011	TOTE	3	180	säätö

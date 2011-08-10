@@ -1,0 +1,66 @@
+html, body {
+	height: 100%;
+	font-family:Arial;
+}
+
+h1 {
+	margin-left: 0px;
+}
+h3{
+	font-size:
+}
+
+table#add{
+	font-size:12px;
+}
+#add td{
+	padding:5px;
+}
+.menu {
+	margin-right:8px;
+	margin-top:10px;
+	float: right;
+}
+h3 {
+    font-size:16px;
+}
+ul {
+    font-size:12px;
+}
+li {
+    margin-bottom:2px;
+}
+.navi{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 230px;
+	height: 100%;
+	padding: 15px;
+	margin-left: 0px;
+	margin-right: 40px;
+	background-color: #FFFFAA;
+	font-size: 10px;
+}
+
+.projektit {
+	margin: 10px 0px 0px 0px;
+	margin-left: 275px;
+}
+form#addwork input {
+	display: block;
+}
+form#addwork label {
+	display: block;
+}
+
+form#addwork #stopwork, form#addwork #stopworklabel {
+	display: inline;
+}
+ul.index{
+    font-size:16px;
+}
+A:link {color:#330033; text-decoration:underline;}
+A:visited {color:#330033; text-decoration:underline;}
+A:active {color:#330033; text-decoration:underline;}
+A:hover {color:#FF0000; text-decoration:none;}
